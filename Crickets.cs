@@ -44,5 +44,6 @@ print("crickets");
 print("crickets");
 print("crickets");
 print("crickets");
-print("crickets")
+print("crickets");
+    // СУХАРИКИ
 }
